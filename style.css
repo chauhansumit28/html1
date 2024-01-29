@@ -1,0 +1,212 @@
+*{
+    margin: 0;
+    padding: 0;
+
+    font-family: arial;
+    border: border-box;
+    background-color: black;
+    
+
+}
+
+/* class navbar */
+
+.border{
+    height: 50px;
+    background-color: black;
+    display: flex;
+    color: white;
+    align-items: center;
+    
+
+}
+
+
+
+
+
+/* heading nav-s tag */
+
+
+a{
+    text-decoration: none;
+    color: white;
+    margin-left: 25px;
+    
+  
+
+}
+
+.a:hover{
+    border: 2.5px solid white;
+}
+
+
+
+/* image tag */
+
+.nav-img {
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px;
+    
+
+}
+
+/* main class */
+.main {
+  
+ color: white;
+ text-align: center;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ 
+
+}
+
+ h3{
+    text-decoration: underline;
+    margin-bottom: 30px;
+}
+
+
+
+
+
+/* class mit image tag */
+
+.mit{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;   
+    
+}
+
+
+
+
+
+    
+
+/* zeep */
+.zeep{
+    background-color: orange;
+    color: white;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+
+
+
+
+/* footer  */.
+
+.foot-panel1{
+   height: 500px;
+   
+   display: flex;
+   flex-direction: row;
+ 
+   
+  
+
+}
+
+ul a{
+   display: flex;
+   color: rgb(194, 190, 190);
+   }
+
+   
+
+.row{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+    text-align: center;
+    line-height: 35px;
+    margin-top: 20px;
+}
+
+.col{
+    margin-right: 200px;
+}
+
+
+
+.foot-panel2{
+    margin-right: 200px;
+}
+
+
+
+.foot-panel3{
+    margin-right: 400px;
+}
+
+
+
+
+/* foot-panel4 */
+
+i{
+    color: #ffffff;
+    margin-top: 20px;
+    font: 20px  "open sans",sans-serif;
+    padding: 10px;
+   
+    
+}
+
+
+.foot-panel5{
+    color:white;
+
+    
+}
+
+
+.last {
+    margin-left: 1250px;
+    height: 50px;
+   
+}
+
+  .b :hover{
+    border: 2.5px solid white ;
+    
+}
+
+
+
+
+
+.foot-panel6{
+    height: 70px;
+    
+      
+}
+
+.m{
+    font-size: 15px;
+    text-align: center;
+     
+}
+
+button{
+    color: white;
+    height: 20px;
+    width: 20px;
+}
+
+input{
+    width: 200px;
+}
+
